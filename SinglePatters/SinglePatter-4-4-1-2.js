@@ -1,7 +1,5 @@
 /**
  * 
- * @authors 
- * @links 
  * @date    2016-04-29 22:52:47
  * @version 0.0.1
  */
